@@ -1,0 +1,18 @@
+{
+  "name": "img-resize-electron",
+  "version": "1.0.0",
+  "description": "img-resizer",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^26.1.0",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
